@@ -9,11 +9,24 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+<ul>
+[Mockup](P3-Project_Planning\1.png)
+[Mockup](P3-Project_Planning\2.png)
+[Mockup](P3-Project_Planning\3.png)
+[Mockup](P3-Project_Planning\4.png)
+[Mockup](P3-Project_Planning\5.png)
+[Mockup](P3-Project_Planning\6.png)
+[Mockup](P3-Project_Planning\7.png)
+[Mockup](P3-Project_Planning\8.png)
+[Mockup](P3-Project_Planning\9.png)
+[Mockup](P3-Project_Planning\10.png)
+[Mockup](P3-Project_Planning\Table Structure.png)
+</ul>
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2238833
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/lanstar21/ProjectIA
